@@ -17,10 +17,10 @@ to fill out a patient chart in a sample Electronic Health Records(EHR) System
 
 
  * For Demo video on this project visit:
-  https://drive.google.com/file/d/1yu3fbS8N-Et2Vg7FF6o9sneabHMJvK9k/view?usp=sharing
+   https://drive.google.com/file/d/1yu3fbS8N-Et2Vg7FF6o9sneabHMJvK9k/view?usp=sharing
 
  * For Git Repository:
-   https://www.drupal.org/node/2929013
+   https://github.com/Lavanya-Appikatla/DeepScribeTest
 
 
 REQUIREMENTS
